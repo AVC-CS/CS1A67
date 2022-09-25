@@ -1,10 +1,10 @@
-[Assignment 6-6: Lab 6-9] (https://prezi.com/p/edit/-xdwv8fik5xk/)
+[Assignment 6-7 Lab 6-10] (https://prezi.com/p/edit/-xdwv8fik5xk/)
 
-## ![Assignment 6-6: Lab 6-9](https://nimbus-screenshots.s3.amazonaws.com/s/15bcc3037afb03301dd54debc75fba8d.png)
+## ![Assignment 6-7: Lab 6-10](https://nimbus-screenshots.s3.amazonaws.com/s/c4abf7d6ab3710be57bee5ced6c1522e.png)
 
-## Open the "A66.hpp"
+## Open the "A67.hpp"
 
-> ### Complete a function "maxmin( ) "
+> ### Complete a function "swap( ) "
 
 ## You can test your program by typing the command
 
@@ -14,4 +14,4 @@
 
 > if you want to restore all files, just clone again with this assignment link.
 
-![Git](https://pics.me.me/thumb_git-repo-git-pull-git-merge-conflict-gilt-62023821.png)
+![Function Overloading in C++](https://iq.opengenus.org/content/images/2019/04/fo1.JPG)
